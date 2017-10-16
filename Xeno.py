@@ -72,7 +72,7 @@ def miadidas(emails):
 		           print(time.strftime("[%H:%M:%S]") + " - Could not enter" + " - " + email)
 
 try:
-   thread.start_new_thread( miadidas, ("youremail@gmail.com",) ) # CHANGE TO YOUR EMAIL < < <  GMAIL ONLY
+   thread.start_new_thread( miadidas, ("youremail@gmail.com",) ) # CHANGE TO YOUR EMAIL GMAIL ONLY
    thread.start_new_thread( miadidas, ("yoursecondemail@gmail.com",) ) # add another gmail if u want, delete this line if not
    
 
