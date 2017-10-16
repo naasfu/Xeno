@@ -1,6 +1,8 @@
 # Xeno
 Bot that auto. register for the Adidas Xeno Written in python 2.7
-EMAIL SYSTEM IS SLOW SO PLEASE IT TAKES UP TO 1 HOUR TO RECEIVE THEM.
+
+-EMAIL SYSTEM IS SLOW SO PLEASE IT TAKES UP TO 1 HOUR TO RECEIVE THEM.
+
 - Proxy support
 - Multithreaded
 - Random pick names
@@ -22,7 +24,6 @@ EMAIL SYSTEM IS SLOW SO PLEASE IT TAKES UP TO 1 HOUR TO RECEIVE THEM.
 * re
 
 * Thread
-
 
 _Goodluck !_
 **Pleas Google how to intstall python2 modules**
